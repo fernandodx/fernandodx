@@ -30,10 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" title="Vue.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Google_Play_Store_logo_2019.svg" width="50" title="Google Play">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Java_logo.svg" width="50" title="Java">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Software_Architecture_Icon_2.png" width="50" title="Arquitetura">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/SOLID-principles.svg" width="50" title="SOLID">
 </div>
 
 ---
