@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou o Fernando Dias de Souza 👋
 
-<!--
-**fernandodx/fernandodx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de aplicativos móveis com mais de 12 anos de experiência em desenvolvimento de software, sendo os últimos 8 anos dedicados ao desenvolvimento mobile. Minha jornada começou com Java e, ao longo do tempo, evoluí para tecnologias modernas como Kotlin, Swift e Dart com Flutter.
 
-Here are some ideas to get you started:
+- 🔭 **Atualmente trabalhando no Sicoob CCS**, contribuindo para soluções financeiras inovadoras que impactam positivamente a vida dos cooperados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Apaixonado por tecnologia e inovação**, busco constantemente aprimorar minhas habilidades e conhecimentos para entregar soluções de alta qualidade.
+
+- 🎓 **Professor e estudante de mestrado**, comprometido com a educação e o compartilhamento de conhecimento na área de desenvolvimento de software.
+
+- 💬 **Vamos conversar!** Estou sempre aberto a discussões sobre desenvolvimento mobile, melhores práticas de programação e novas tecnologias.
+
+- 📫 **Como me encontrar:**
+  - [LinkedIn](https://www.linkedin.com/in/fdiasbsb/)
+  - [GitHub](https://github.com/fernandodx/)
+
+- ⚡ **Curiosidades sobre mim:**
+  - Casado e pai orgulhoso de duas filhas.
+  - Ministro da Eucaristia na comunidade católica local.
+  - Entusiasta de novas tecnologias e sempre em busca de desafios que me permitam crescer profissionalmente.
+
+---
+
+> "A tecnologia move o mundo." – Steve Jobs
+
+---
+
+Obrigado por visitar meu perfil! Se tiver alguma pergunta ou quiser colaborar em algum projeto, não hesite em entrar em contato.
