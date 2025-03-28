@@ -10,7 +10,6 @@
 💻 Desenvolvedor mobile com experiência em **Android (Kotlin), iOS (Swift) e Flutter (Dart)**  
 🎓 Professor e estudante de mestrado, apaixonado por tecnologia e inovação  
 💼 Atualmente trabalhando no **Sicoob CCS**, desenvolvendo soluções financeiras eficientes  
-🙌 Ministro da Eucaristia, casado e pai de duas filhas incríveis  
 
 ---
 
