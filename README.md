@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Fernando Dias de Souza 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1Y3V4aTZ4ZnlodGtyM21iYmQwY2xyeDJienRxY215bjNlYXBxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </div>
 
 ---
